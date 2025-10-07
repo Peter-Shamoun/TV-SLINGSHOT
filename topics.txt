@@ -1,0 +1,78 @@
+As an abstraction, we can say that to build a slingshot for 
+recreational or small game hunting purposes, these are the core
+steps required:
+
+
+1. Material Selection:
+    - Choice of wood/plastic for frame of the slingshot
+    - Choice of rubber/string for the slingshot
+    - Choice of glue/tape
+
+2. Basic woodworking / fabrication
+    - Cutting and sanding the frame of the slingshot
+    - Drilling holes for the rubber of the slingshot
+    - Shaping a frame into specific dimenstions
+
+3. Mechanical design
+    - frame geometry
+    - attachment points
+    - tension paths
+    - balance and wobble mitigation
+
+4. Fastening & assembly techniques
+    - knots
+    - loops
+    - wrapping
+    - gluing
+    - taping
+    - securing elastic elements
+
+5. Release mechanism desig
+    - simple pin/lever concepts
+    - how to hold and release tensioned strings
+
+
+These concepts are integral in the step by step process of creating the 
+slingshot, but are aslo isolateable, and used in differenct concepts:
+
+
+1. Material Selection
+
+- Concept: pick materials by properties and trade-offs 
+(strength, elasticity, weight, machinability).
+- Subtopics: tensile strength, elasticity, timber types, polymers,
+ grip materials.
+- Domains: product design, civil/aerospace, medical devices, 
+consumer goods.
+
+2. Woodworking / Fabrication
+
+- Concept: shape raw stock to final form; manage fits and finishes.
+- Subtopics: measuring/layout, cutting, sanding, drilling, finishing.
+- Domains: furniture, prototyping, construction, modelmaking.
+
+3. Mechanical Design
+
+- Concept: arrange geometry so loads flow predictably; control 
+stiffness and stability.
+- Subtopics: load paths, attachment placement, stiffness vs. compliance,
+ damping.
+- Domains: structural engineering, robotics, automotive, sports gear.
+
+4. Fastening & Assembly
+
+- Concept: join parts with methods chosen for load, reversibility, 
+environment.
+- Subtopics: mechanical fasteners, adhesives, wraps, knots, surface prep.
+- Domains: manufacturing, marine rigging, textiles, field repairs.
+
+5. Release Mechanisms
+
+- Concept: retain stored energy; permit controlled, intentional 
+release with fail-safes.
+- Subtopics: latches vs. friction, trigger ergonomics, redundancy, wear.
+- Domains: machinery, automotive closures, packaging, theatrical rigging.
+
+
+
+
